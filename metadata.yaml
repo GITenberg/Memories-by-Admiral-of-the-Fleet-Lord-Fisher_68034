@@ -1,11 +1,16 @@
 _repo: Memories-by-Admiral-of-the-Fleet-Lord-Fisher_68034
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68034-h/images/cover.jpg
 creator:
   author:
     agent_name: Fisher, John
     gutenberg_agent_id: '54577'
     url: http://www.gutenberg.org/2009/agents/54577
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68034#Memories-by-Admiral-of-the-Fleet-Lord-Fisher
 gutenberg_issued: '2022-05-09'
 identifiers:
   gutenberg: '68034'
